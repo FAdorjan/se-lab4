@@ -1,0 +1,4 @@
+# Does the ship NOT alternate if the other store is empty?
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # should succeed
+TORPEDO,SINGLE  # should succeed as well
