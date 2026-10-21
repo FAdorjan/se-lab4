@@ -1,0 +1,6 @@
+# Coverage test for if both store are empty when trying to fire
+GT4500,0,0,0,0
+TORPEDO,SINGLE  # should FAIL
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should SUCCEED
+TORPEDO,SINGLE  # should FAIL

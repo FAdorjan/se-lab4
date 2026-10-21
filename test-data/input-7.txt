@@ -1,0 +1,3 @@
+# Coverage test for if only the primary is empty when firing ALL
+GT4500,0,0,10,0
+TORPEDO,ALL  # should SUCCEED
