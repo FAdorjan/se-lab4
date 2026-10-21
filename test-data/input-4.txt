@@ -1,0 +1,3 @@
+# Is 1 successful fire enough for a SUCCESS?
+GT4500,10,0,0,0
+TORPEDO,ALL  # should still give SUCCESS

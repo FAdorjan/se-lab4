@@ -1,0 +1,3 @@
+# Does the ship try to fire the other store if its current one failed
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # should just FAIL and not succeed at firing the second one

@@ -1,0 +1,5 @@
+# Coverage test for if secondary was fired last but primary is empty
+GT4500,1,0,10,0
+TORPEDO,SINGLE  # should SUCCEED
+TORPEDO,SINGLE  # should SUCCEED
+TORPEDO,SINGLE  # should SUCCEED
